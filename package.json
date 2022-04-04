@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/musesfish/react-cli-amy.git"
+    "url": "git+https://github.com/musesfish/cli-amy.git"
   },
   "keywords": [
     "react-cli"

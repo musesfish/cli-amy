@@ -1,6 +1,6 @@
 {
-    "react":"https://github.com/musesfish/react-cli-amy.git",
-    "vue":"https://github.com/musesfish/vue-cli-amy.git",
-    "layui":"https://github.com/musesfish/layui-cli-amy.git",
-    "react-native":"https://github.com/musesfish/react-native-cli-amy.git"
+    "react-cli-amy":"https://github.com/musesfish/react-cli-amy.git",
+    "vue-cli-amy":"https://github.com/musesfish/vue-cli-amy.git",
+    "layui-cli-amy":"https://github.com/musesfish/layui-cli-amy.git",
+    "react-native-cli-amy":"https://github.com/musesfish/react-native-cli-amy.git"
 }
