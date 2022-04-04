@@ -1,0 +1,39 @@
+{
+  "name": "cli-amy",
+  "version": "1.1.5",
+  "description": "脚手架",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "amy": "./bin/amy",
+    "amy-add": "./bin/amy-add",
+    "amy-delete": "./bin/amy-delete",
+    "amy-list": "./bin/amy-list",
+    "amy-create": "./bin/amy-create",
+    "amy-init": "./bin/amy-init"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musesfish/react-cli-amy.git"
+  },
+  "keywords": [
+    "react-cli"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  },
+  "author": "smy-npm-2021",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musesfish/cli-amy/issues"
+  },
+  "homepage": "https://github.com/musesfish/cli-amy#readme"
+}
